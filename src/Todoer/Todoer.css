@@ -1,0 +1,11 @@
+.btnAdd {
+ color: blue;
+}
+
+p[isDone="true"]{
+    text-decoration:line-through
+}
+
+li p, input {
+    float: left;
+}
